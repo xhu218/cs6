@@ -8,7 +8,7 @@ namespace ArgumentsSample
         {
             for (int i = 0; i < args.Length; i++)
             {
-                WriteLine(args[i]);
+                WriteLine(args[i]); 
             }
 
         }
